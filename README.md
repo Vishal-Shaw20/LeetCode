@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
+| [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
@@ -15,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
