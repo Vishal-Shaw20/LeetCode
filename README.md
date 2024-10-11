@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0001-two-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
