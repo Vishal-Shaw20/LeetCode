@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -66,6 +67,7 @@
 | [0041-first-missing-positive](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
