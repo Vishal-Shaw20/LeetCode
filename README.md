@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0041-first-missing-positive) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
@@ -165,6 +166,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
