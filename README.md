@@ -19,6 +19,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0810-valid-tic-tac-toe-state](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
+| [0810-valid-tic-tac-toe-state](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
