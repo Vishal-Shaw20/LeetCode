@@ -99,6 +99,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
