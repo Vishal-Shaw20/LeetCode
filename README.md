@@ -187,6 +187,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -209,6 +210,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -226,6 +228,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -236,6 +239,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
