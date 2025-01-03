@@ -184,6 +184,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -204,6 +205,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -219,6 +221,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -227,6 +230,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
