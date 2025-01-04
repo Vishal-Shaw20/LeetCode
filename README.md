@@ -42,6 +42,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |
