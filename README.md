@@ -105,6 +105,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Backtracking
 |  |
 | ------- |
