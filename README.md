@@ -34,6 +34,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
 ## Hash Table
 |  |
