@@ -25,6 +25,7 @@
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1185-find-in-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -51,6 +52,7 @@
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Counting
 |  |
