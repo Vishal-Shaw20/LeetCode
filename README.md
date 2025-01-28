@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -163,6 +164,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
