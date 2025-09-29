@@ -187,6 +187,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
@@ -203,6 +204,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
