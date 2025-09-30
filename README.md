@@ -17,6 +17,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@
 | [0007-reverse-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
@@ -197,6 +199,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0287-find-the-duplicate-number) |
