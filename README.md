@@ -19,6 +19,7 @@
 | [0136-single-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
@@ -102,6 +103,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -123,6 +125,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
@@ -271,6 +275,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
