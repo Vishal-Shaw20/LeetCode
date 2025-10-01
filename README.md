@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -161,6 +162,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -273,6 +275,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
