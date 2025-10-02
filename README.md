@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0136-single-number) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0338-counting-bits) |
