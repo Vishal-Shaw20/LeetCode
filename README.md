@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
@@ -83,6 +85,7 @@
 | [0002-add-two-numbers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
