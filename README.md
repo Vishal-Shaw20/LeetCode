@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
@@ -104,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
