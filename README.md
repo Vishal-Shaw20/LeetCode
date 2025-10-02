@@ -19,6 +19,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0162-find-peak-element) |
@@ -130,6 +131,7 @@
 | [0037-sudoku-solver](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
@@ -397,4 +399,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
