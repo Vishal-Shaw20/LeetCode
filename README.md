@@ -105,6 +105,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Counting
 |  |
 | ------- |
