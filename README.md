@@ -47,6 +47,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0792-binary-search) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -183,6 +184,7 @@
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1185-find-in-mountain-array) |
 ## Interactive
