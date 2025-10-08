@@ -59,6 +59,7 @@
 | [1185-find-in-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -196,6 +197,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
