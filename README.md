@@ -72,6 +72,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -203,6 +204,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
