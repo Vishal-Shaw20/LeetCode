@@ -1,31 +1,36 @@
 class Solution {
-    public int splitArray(int[] nums, int k) {
-        int p = 0, last = 0, first = nums[0], mid, s, c;
+    public int splitArray(int[] nums, int k) 
+    {
+        if(nums.length < k)
+            return -1;
+        int low = Integer.MIN_VALUE, high = 0;
         for(int i = 0; i < nums.length; i++)
         {
-            last+= nums[i];
-            if(first < nums[i])
-                first = nums[i];
+            low = (low > nums[i])? low : nums[i];
+            high += nums[i];
         }
-        while(first < last)
+        while(low <= high)
         {
-            c = s = 0;
-            mid = first + (last - first)/2;
-            for(int i = 0; i < nums.length; i++)
-            {
-                s+= nums[i];
-                if(s > mid)
-                {
-                    c++;
-                    s = nums[i];
-                }
-            }
-            c++;
-            if(c <= k)
-                last = mid;
+            int mid = low + (high - low)/2;
+            if(check(nums,mid) <= k)
+                high = mid - 1;
             else
-                first = mid + 1;
+                low = mid + 1;
         }
-        return first;
+        return low;
+    }
+    public static int check(int[] nums, int mid)
+    {
+        int k = 1, sum = 0;
+        for(int i = 0; i < nums.length; i++)
+        {
+            if((sum + nums[i]) > mid)
+            {
+                k++;
+                sum = 0;
+            }
+            sum += nums[i];
+        }
+        return k;
     }
 }
