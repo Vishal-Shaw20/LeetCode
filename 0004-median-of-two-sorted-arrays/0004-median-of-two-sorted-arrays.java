@@ -1,48 +1,31 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) 
     {
+        if(nums1.length > nums2.length)
+            return findMedianSortedArrays(nums2,nums1);
         int n = nums1.length + nums2.length;
-        int i = (n/2) - 1, j = n/2, count = 0, ptr1 = 0, ptr2 = 0, temp1 = -1, temp2 = -1;
-        while(ptr1 < nums1.length && ptr2 < nums2.length)
+        int low = 0, high = nums1.length;
+        while(low <= high)
         {
-            if(nums1[ptr1] < nums2[ptr2])
+            int mid1 = low + ((high - low) >> 1);
+            int mid2 = ((n + 1) >> 1) - mid1;
+            int l1 = (mid1 == 0)? Integer.MIN_VALUE : nums1[mid1 - 1];
+            int l2 = (mid2 == 0)? Integer.MIN_VALUE : nums2[mid2 - 1];
+            int r1 = (mid1 == nums1.length)? Integer.MAX_VALUE : nums1[mid1];
+            int r2 = (mid2 == nums2.length)? Integer.MAX_VALUE : nums2[mid2];
+            if(l1 <= r2 && l2 <= r1)
             {
-                if(count == i)
-                    temp1 = nums1[ptr1];
-                if(count == j)
-                    temp2 = nums1[ptr1];
-                ptr1++;
+                int max = (l1 > l2)? l1 : l2;
+                if((n % 2) == 1)
+                    return max;
+                int min = (r1 < r2)? r1 : r2;
+                return ((max + min)/2.0);
             }
+            else if(l1 > r2)
+                high = mid1 - 1;
             else
-            {
-                if(count == i)
-                    temp1 = nums2[ptr2];
-                if(count == j)
-                    temp2 = nums2[ptr2];
-                ptr2++;
-            }
-            count++;
+                low = mid1 + 1;
         }
-        while(ptr1 < nums1.length)
-        {
-            if(count == i)
-                temp1 = nums1[ptr1];
-            if(count == j)
-                temp2 = nums1[ptr1];
-            count++;
-            ptr1++;
-        }
-        while(count <= j && ptr2 < nums2.length)
-        {
-            if(count == i)
-                temp1 = nums2[ptr2];
-            if(count == j)
-                temp2 = nums2[ptr2];
-            count++;
-            ptr2++;
-        }
-        if((n % 2) == 0)
-            return (((double)temp1 + temp2)/2);
-        return temp2;
+        return -1;
     }
 }
