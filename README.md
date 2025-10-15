@@ -83,6 +83,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -103,6 +104,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2047-find-a-peak-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Interactive
 |  |
 | ------- |
