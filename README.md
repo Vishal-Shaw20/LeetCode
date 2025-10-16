@@ -117,6 +117,7 @@
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0400-nth-digit) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -482,4 +484,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
