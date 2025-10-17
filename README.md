@@ -121,6 +121,7 @@
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -304,6 +306,7 @@
 | [0058-length-of-last-word](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0412-fizz-buzz) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
