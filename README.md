@@ -315,6 +315,7 @@
 | [0205-isomorphic-strings](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -506,4 +507,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
