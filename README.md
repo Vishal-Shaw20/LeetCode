@@ -134,6 +134,7 @@
 | [1642-water-bottles](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3336-water-bottles-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [2058-concatenation-of-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -532,4 +536,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
