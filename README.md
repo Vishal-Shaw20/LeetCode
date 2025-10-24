@@ -118,6 +118,7 @@
 | [0069-sqrtx](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
@@ -259,6 +260,7 @@
 | [0136-single-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0338-counting-bits) |
@@ -375,6 +377,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1013-fibonacci-number) |
