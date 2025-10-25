@@ -133,6 +133,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3336-water-bottles-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
