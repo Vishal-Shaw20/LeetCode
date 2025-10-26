@@ -25,7 +25,7 @@ class Bank {
     
     public boolean deposit(int account, long money) 
     {
-        if(account > 0 && account <= this.balance.length)
+        if(account <= this.balance.length)
         {
             this.balance[account - 1] += money;
             return true;
@@ -36,7 +36,7 @@ class Bank {
     
     public boolean withdraw(int account, long money) 
     {
-        if(account > 0 && account <= this.balance.length && this.balance[account - 1] >= money)
+        if(account <= this.balance.length && this.balance[account - 1] >= money)
         {
             this.balance[account - 1] -= money;
             return true;
