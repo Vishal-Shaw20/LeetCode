@@ -317,6 +317,7 @@
 | [0344-reverse-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -372,6 +373,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
