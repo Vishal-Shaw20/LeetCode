@@ -13,41 +13,29 @@ class Solution {
         if(head == null || head.next == null)
             return true;
         ListNode fast = head;
-        ListNode mid = head;
+        ListNode slow = head;
         ListNode temp, temp1 = head;
         while(fast != null && fast.next != null)
         {
-            if(fast.next.next == null)
-            {
-                fast = fast.next;
-                break;
-            }
-            mid = mid.next;
+            slow = slow.next;
             fast = fast.next.next;
         }
-        temp = mid.next;
-        mid.next = null;
-        ListNode temp2 = Reverse(temp,temp);
-        temp.next = null;
-        while(temp1 != null && temp2 != null)
+        temp = slow;
+        ListNode prev = null, front = null;
+        while(temp != null)
         {
-            if(temp1.val != temp2.val)
+            front = temp.next;
+            temp.next = prev;
+            prev = temp;
+            temp = front;
+        }
+        while(temp1 != null && prev != null)
+        {
+            if(temp1.val != prev.val)
                 return false;
             temp1= temp1.next;
-            temp2 = temp2.next;
+            prev = prev.next;
         }
         return true;
-    }
-
-    public ListNode Reverse(ListNode head, ListNode tail)
-    {
-        if(head.next != null)
-            tail = Reverse(head.next,tail.next);
-        if(head.next == null)
-        {
-            return tail;
-        }
-        head.next.next = head;
-        return tail;
     }
 }
