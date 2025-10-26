@@ -87,6 +87,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -151,6 +152,7 @@
 | [1642-water-bottles](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2169-simple-bank-system](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -202,6 +204,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2169-simple-bank-system](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2169-simple-bank-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2169-simple-bank-system](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
 | ------- |
