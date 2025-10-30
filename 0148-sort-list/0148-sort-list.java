@@ -10,99 +10,50 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head == null)
+        if(head == null || head.next == null)
             return head;
-        ListNode tail = head;
-        while(tail.next != null)
-            tail = tail.next;
-        mergesort(head,head,tail);
-        return head;
+        ListNode mid = middle(head);
+        ListNode left = head;
+        ListNode right = mid.next;
+        mid.next = null;
+        ListNode leftSorted = sortList(left);
+        ListNode rightSorted = sortList(right);
+        return merge(leftSorted,rightSorted);
     }
 
-    public void mergesort(ListNode head, ListNode start, ListNode tail)
+    public ListNode merge(ListNode left, ListNode right)
     {
-        if(start != tail)
+        ListNode dummyNode = new ListNode(-1);
+        ListNode temp = dummyNode;
+        while(left != null && right != null)
         {
-            ListNode mid = middle(start,tail);
-            mergesort(head,start,mid);
-            mergesort(head,mid.next,tail);
-            merge(head,start,mid,tail);
-        }
-    }
-
-    public void merge(ListNode head, ListNode start, ListNode mid, ListNode tail)
-    {
-        ListNode L = null;
-        ListNode R = null;
-        ListNode L1 = L;
-        ListNode R1 = R;
-        ListNode temp = start;
-        while(temp != mid.next)
-        {
-            ListNode temp1 = new ListNode();
-            temp1.val = temp.val;
-            if(L == null)
-                L = L1 = temp1;
-            else
+            if(left.val < right.val)
             {
-                L1.next = temp1;
-                L1 = L1.next;
-            }
-            temp = temp.next;
-        }
-        while(temp != tail.next)
-        {
-            ListNode temp1 = new ListNode();
-            temp1.val = temp.val;
-            if(R == null)
-                R = R1 = temp1;
-            else
-            {
-                R1.next = temp1;
-                R1 = R1.next;
-            }
-            temp = temp.next;
-        }
-        L1 = L;
-        R1 = R;
-        temp = start;
-        while(L1 != null && R1 != null)
-        {
-            if(L1.val <= R1.val)
-            {
-                temp.val = L1.val;
-                L1 = L1.next;
+                temp.next = left;
+                left = left.next;
             }
             else
             {
-                temp.val = R1.val;
-                R1 = R1.next;
+                temp.next = right;
+                right = right.next;
             }
             temp = temp.next;
         }
-        while(L1 != null)
-        {
-            temp.val = L1.val;
-            L1 = L1.next;
-            temp = temp.next;
-        }
-        while(R1 != null)
-        {
-            temp.val = R1.val;
-            R1 = R1.next;
-            temp = temp.next;
-        }
+        if(left != null)
+            temp.next = left;
+        if(right != null)
+            temp.next = right;
+        return dummyNode.next;
     }
 
-    public ListNode middle(ListNode head, ListNode tail)
+    public ListNode middle(ListNode head)
     {
-        ListNode fast = head;
+        ListNode fast = head.next;
         ListNode slow = head;
-        while(fast != tail.next && fast.next != tail.next)
+        while(fast != null && fast.next != null)
         {
             fast = fast.next.next;
-            if(fast != tail.next)
-                slow = slow.next;
+            slow = slow.next;
         }
         return slow;
     }
