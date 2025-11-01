@@ -115,6 +115,7 @@
 | [0009-palindrome-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
@@ -387,6 +388,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0206-reverse-linked-list) |
