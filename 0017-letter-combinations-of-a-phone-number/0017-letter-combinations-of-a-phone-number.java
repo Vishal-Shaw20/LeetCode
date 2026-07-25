@@ -1,30 +1,23 @@
 class Solution {
-    public static List<String> letterCombinations(String digits)
-    {
+    public List<String> letterCombinations(String digits) {
         List<String> list = new ArrayList<>();
-        if(digits.isEmpty())
-            return list;
-        display("",digits,list);
+        String[] map = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        backtrack(list, map, new StringBuilder(), digits, 0);
         return list;
     }
-    public static void display(String p, String up, List<String> list)
+    public void backtrack(List<String> list, String[] map, StringBuilder str, String digits, int index)
     {
-        if(up.isEmpty())
+        if(index == digits.length())
         {
-            list.add(p);
+            list.add(str.toString());
             return;
         }
-        int r = Integer.parseInt(Character.toString(up.charAt(0)));
-        String s = pass(r);
-        display(p + Character.toString(s.charAt(0)),up.substring(1),list);
-        display(p + Character.toString(s.charAt(1)),up.substring(1),list);
-        display(p + Character.toString(s.charAt(2)),up.substring(1),list);
-        if(r == 7 || r == 9)
-            display(p + Character.toString(s.charAt(3)),up.substring(1),list);
-    }
-    public static String pass(int a)
-    {
-        String[] h = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-        return h[a];
+        String l = map[digits.charAt(index) - '0'];
+        for(char ch : l.toCharArray())
+        {
+            str.append(ch);
+            backtrack(list, map, str, digits, index + 1);
+            str.deleteCharAt(str.length() - 1);
+        }
     }
 }
