@@ -1,8 +1,8 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int num = 0;
-        for(int i : nums)
-            num = num ^ i;
-        return num;
+        int xor = 0;
+        for(int num : nums)
+            xor ^= num;
+        return xor;
     }
 }
