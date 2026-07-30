@@ -48,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -282,6 +283,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0338-counting-bits) |
