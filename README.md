@@ -45,6 +45,7 @@
 | [0162-find-peak-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
@@ -131,6 +132,7 @@
 | [0069-sqrtx](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
@@ -571,6 +573,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0258-add-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
@@ -590,4 +593,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
