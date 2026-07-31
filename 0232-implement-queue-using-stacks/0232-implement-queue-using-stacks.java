@@ -1,54 +1,32 @@
 class MyQueue {
 
-    int[] stack1;
-    int[] stack2;
-    int top1 = -1;
-    int top2 = -1;
+    Deque<Integer> stack1 = new ArrayDeque<>();
+    Deque<Integer> stack2 = new ArrayDeque<>();
 
     public MyQueue() {
-        stack1 = new int[100];
-        stack2 = new int[100];
+        
     }
-
+    
     public void push(int x) {
-        stack1[++top1] = x;
+        stack1.push(x);       
     }
-
+    
     public int pop() {
-        if(empty())
-            return -1;
-        while(top1 != -1)
-        {
-            stack2[++top2] = stack1[top1--];
-        }
-        int n = stack2[top2];
-        top2-= 1;
-        while(top2 != -1)
-        {
-            stack1[++top1] = stack2[top2--];
-        }
-        return n;
+        peek();
+        return stack2.pop();
     }
-
+    
     public int peek() {
-        if(empty())
-            return -1;
-        while(top1 != -1)
+        if(stack2.isEmpty())
         {
-            stack2[++top2] = stack1[top1--];
+            while(!stack1.isEmpty())
+                stack2.push(stack1.pop());
         }
-        int n = stack2[top2];
-        while(top2 != -1)
-        {
-            stack1[++top1] = stack2[top2--];
-        }
-        return n;
+        return stack2.peek();
     }
-
+    
     public boolean empty() {
-        if(top1 == -1)
-            return true;
-        return false;
+        return stack1.isEmpty() && stack2.isEmpty();
     }
 }
 
