@@ -626,4 +626,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0204-count-primes) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
