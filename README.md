@@ -102,6 +102,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2169-simple-bank-system](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -477,6 +478,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [0496-next-greater-element-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
