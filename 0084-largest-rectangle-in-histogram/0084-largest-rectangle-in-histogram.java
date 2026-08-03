@@ -1,29 +1,55 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int max = 0, n = heights.length;
-        int[] Left = new int[n];
-        int[] Right = new int[n];
-        Stack<Integer> stack = new Stack<>();
-        for(int i = 0; i < n; i++)
+        int[] nse = NSE(heights);
+        int[] pse = PSE(heights);
+        int max = 0;
+        for(int i = 0; i < heights.length; i++)
         {
-            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i])
-                stack.pop();
-            Left[i] = (stack.isEmpty())? -1 : stack.peek();
-            stack.push(i);
-        }
-        stack.clear();
-        for(int i = (n - 1); i >= 0; i--)
-        {
-            while(!stack.isEmpty() && heights[stack.peek()] >= heights[i])
-                stack.pop();
-            Right[i] = (stack.isEmpty())? n : stack.peek();
-            stack.push(i);
-        }
-        for(int i = 0; i < n; i++)
-        {
-            int width = Right[i] - Left[i] - 1;
-            max = Math.max(max,(heights[i] * width));
+            int temp = heights[i] * (nse[i] - pse[i] - 1);
+            max = (temp > max)? temp : max;
         }
         return max;
+    }
+    public int[] NSE(int[] arr)
+    {
+        int[] nse = new int[arr.length];
+        Deque<int[]> stack = new ArrayDeque<>();
+        for(int i = arr.length - 1; i >= 0; i--)
+        {
+            if(stack.isEmpty())
+                nse[i] = arr.length;
+            else
+            {
+                while(!stack.isEmpty() && stack.peek()[0] >= arr[i])
+                    stack.pop();
+                if(stack.isEmpty())
+                    nse[i] = arr.length;
+                else
+                    nse[i] = stack.peek()[1];
+            }
+            stack.push(new int[]{arr[i],i});
+        }
+        return nse;
+    }
+    public int[] PSE(int[] arr)
+    {
+        int[] pse = new int[arr.length];
+        Deque<int[]> stack = new ArrayDeque<>();
+        for(int i = 0; i < arr.length; i++)
+        {
+            if(stack.isEmpty())
+                pse[i] = -1;
+            else
+            {
+                while(!stack.isEmpty() && stack.peek()[0] >= arr[i])
+                    stack.pop();
+                if(stack.isEmpty())
+                    pse[i] = -1;
+                else
+                    pse[i] = stack.peek()[1];
+            }
+            stack.push(new int[]{arr[i],i});
+        }
+        return pse;
     }
 }
