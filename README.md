@@ -212,6 +212,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0202-happy-number) |
@@ -420,6 +421,7 @@
 | [0141-linked-list-cycle](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -491,6 +493,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0901-online-stock-span) |
@@ -654,4 +657,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
