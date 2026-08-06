@@ -224,6 +224,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
@@ -429,6 +430,7 @@
 | [0234-palindrome-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -496,6 +498,7 @@
 | [0146-lru-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2169-simple-bank-system) |
 ## Queue
@@ -661,4 +664,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
