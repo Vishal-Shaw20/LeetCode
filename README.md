@@ -76,6 +76,7 @@
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1185-find-in-mountain-array) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
@@ -259,6 +261,7 @@
 | [0792-binary-search](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -655,6 +658,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
