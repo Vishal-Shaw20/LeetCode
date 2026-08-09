@@ -76,6 +76,7 @@
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -232,6 +234,7 @@
 | [0496-next-greater-element-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -661,6 +664,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
