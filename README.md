@@ -240,6 +240,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -400,6 +401,7 @@
 | [0812-rotate-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -671,6 +673,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
