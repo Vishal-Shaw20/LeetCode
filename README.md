@@ -77,6 +77,7 @@
 | [0907-koko-eating-bananas](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -192,6 +193,7 @@
 | [0169-majority-element](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
@@ -240,6 +242,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -673,6 +676,7 @@
 | [0239-sliding-window-maximum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
