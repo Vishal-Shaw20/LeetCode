@@ -75,6 +75,7 @@
 | [0792-binary-search](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0792-binary-search) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0846-hand-of-straights](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0898-transpose-matrix) |
@@ -322,6 +323,7 @@
 | [0455-assign-cookies](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0860-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
