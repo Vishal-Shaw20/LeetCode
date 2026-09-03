@@ -104,6 +104,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1791-richest-customer-wealth](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -324,6 +325,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -369,6 +371,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Two Pointers
 |  |
 | ------- |
