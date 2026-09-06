@@ -112,6 +112,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1791-richest-customer-wealth](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1834-single-threaded-cpu](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1983-maximum-population-year](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1983-maximum-population-year) |
@@ -388,6 +389,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Two Pointers
 |  |
 | ------- |
@@ -673,6 +675,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1834-single-threaded-cpu](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Memoization
 |  |
 | ------- |
