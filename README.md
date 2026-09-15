@@ -784,6 +784,7 @@
 | [0595-big-countries](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
