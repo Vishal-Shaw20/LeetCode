@@ -770,4 +770,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
