@@ -779,5 +779,6 @@
 | [0197-rising-temperature](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0595-big-countries) |
+| [1667-fix-names-in-a-table](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
