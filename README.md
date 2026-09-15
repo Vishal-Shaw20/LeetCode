@@ -782,6 +782,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1667-fix-names-in-a-table](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
