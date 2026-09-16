@@ -788,6 +788,7 @@
 | [0626-exchange-seats](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1321-restaurant-growth](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1667-fix-names-in-a-table](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
