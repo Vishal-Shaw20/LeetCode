@@ -785,6 +785,7 @@
 | [0584-find-customer-referee](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/Vishal-Shaw20/LeetCode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-Shaw20/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
